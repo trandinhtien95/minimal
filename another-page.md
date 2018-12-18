@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+Exploratory
 
-_yay_
+PCA
 
+Processing
 [back](./)

@@ -7,10 +7,10 @@ layout: default
 
 ## Data Analytics
 ### EDA
-[Link to another page](./another-page.html).
+[Click to see more](./another-page.html).
 
 ### Data Visualization
-[Link to another page](./eda.html).
+[Click to see more](./eda.html).
 
 There should be whitespace between paragraphs.
 

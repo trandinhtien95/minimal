@@ -2,9 +2,15 @@
 layout: default
 ---
 
-My Project
+# My Project
 
+
+## Data Analytics
+### EDA
 [Link to another page](./another-page.html).
+
+### Data Visualization
+[Link to another page](./eda.html).
 
 There should be whitespace between paragraphs.
 
